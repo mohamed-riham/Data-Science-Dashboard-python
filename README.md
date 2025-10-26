@@ -87,6 +87,11 @@ This repository contains **Data‑Science‐Dashboard**, a Python‑based data a
 
 
 ## Usage & Screenshots  
+Here are some views of the application dashboards and visualisations:
+
+- **Sales Diagram:**  
+  ![Sales Diagram](docs/class_diagram.drawio.png)  
+
 Here are some views of the application’s dashboards and visualisations (located in `docs`):  
 - Screenshot 1: `docs/screenshot1.png`  
 - Screenshot 2: `docs/screenshot2.png`  
