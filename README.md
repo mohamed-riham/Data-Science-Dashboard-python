@@ -50,8 +50,8 @@ This repository contains **Data‑Science‐Dashboard**, a Python‑based data a
 
 ### Installation  
 1. Clone the repository:  
-   git clone https://github.com/mohamed-riham/Data-Science-Dashboard-python-.git
-   cd Data-Science-Dashboard-python-
+   git clone https://github.com/mohamed-riham/Data-Science-Dashboard-python.git
+   cd Data-Science-Dashboard-python
 
 2. (Optional) Create & activate a virtual environment:  
    python -m venv venv
