@@ -87,7 +87,10 @@ This repository contains **Data‑Science‐Dashboard**, a Python‑based data a
 
 
 ## Usage & Screenshots  
-
+Here are some views of the application’s dashboards and visualisations (located in `docs`):  
+- Screenshot 1: `docs/screenshot1.png`  
+- Screenshot 2: `docs/screenshot2.png`  
+- Screenshot 3: `docs/screenshot3.png`  
 
 ## Testing  
 Includes both unit and user acceptance tests.
