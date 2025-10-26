@@ -64,16 +64,27 @@ This repository contains **Data‑Science‐Dashboard**, a Python‑based data a
 
 ## Project Structure  
 / (root)
-├── main.py
-├── supermarket_sales.csv
-├── supermarket_sales_enhanced.csv
-├── supermarket_sales_expanded.csv
-├── test_analysis.py
-├── user_acceptancy_test.py
-├── LICENSE
-├── README.md
-├── Run Main Application.bat
-└── run testing.bat
+
+  ├── main.py
+
+  ├── supermarket_sales.csv
+
+  ├── supermarket_sales_enhanced.csv
+
+  ├── supermarket_sales_expanded.csv
+
+  ├── test_analysis.py
+
+  ├── user_acceptancy_test.py
+
+  ├── LICENSE
+
+  ├── README.md
+
+  ├── Run Main Application.bat
+
+  └── run testing.bat
+
 
 ## Usage & Screenshots  
 
