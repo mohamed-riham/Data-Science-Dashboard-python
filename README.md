@@ -1,6 +1,13 @@
 # Data‑Science‐Dashboard (Python)  
 *A Data Analysis Application using Python*
 
+## Demo Video  
+
+Watch the live demo of the dashboard on YouTube:
+
+[![Watch the Demo](https://img.youtube.com/vi/Ct4KMro4JqU/0.jpg)](https://www.youtube.com/watch?v=Ct4KMro4JqU)
+
+
 ## Table of Contents  
 - [About](#about)  
 - [Features](#features)  
